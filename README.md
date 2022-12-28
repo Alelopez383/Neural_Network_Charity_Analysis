@@ -23,7 +23,7 @@ So, we need to:
 **Compile, Train, and Evaluate the Model**, and
 **Optimize the Model**
 
-# Results: 
+# Optimization models: 
 1. Initial Model
 
 ![image](https://user-images.githubusercontent.com/43974872/206633120-02335de0-d12a-485d-8949-4fd060d06fd0.png)
