@@ -19,8 +19,8 @@ The dataset contains more than 34,000 organizations that have received funding f
 - IS_SUCCESSFUL—Was the money used effectively
 
 So, we need to:
-**Preprocessing Data for a Neural Network Model**
-**Compile, Train, and Evaluate the Model**
+**Preprocessing Data for a Neural Network Model**,
+**Compile, Train, and Evaluate the Model**, and
 **Optimize the Model**
 
 # Results: 
